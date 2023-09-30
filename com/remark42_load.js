@@ -4,7 +4,7 @@ var remark_config = {
     components: ['embed'],
     max_shown_comments: 25,
     theme: 'light',
-    page_title: 'Electrifying-Haze Comments'
+    page_title: 'Nocturnal-Dimensions Comments'
 };
 
 (function(c) {
